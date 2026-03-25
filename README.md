@@ -1,6 +1,8 @@
 ## Greetings, stranger!
 
-My name is Abdallah. I'm a software engineer with experience since 2019, mostly proficient as a full-stack web developer. I have been working in several places, with many projects done successfully. I'm used to using the LAMP stack with Laravel (TALL stack) as the backend and version control such as Github and Gitlab.
+> Visit my site at [www.mrifqyabdallah.com](www.mrifqyabdallah.com)
+
+I'm a software engineer with 4+ years of experience, mostly proficient as a full-stack web developer using PHP/Laravel with raw blade, Livewire, or React as the frontend. Lately I've been learning CI/CD with docker compose, GitHub actions, VPS, and CloudFlare; trying to implement various tools or technology through it.
 
 Over the years, I've worked in teams, both as the team leader and member; as well as working individually by myself. I’m highly adaptive and always push myself to learn new things in order to bring the best result for my projects, or simply to fulfill my sense of curiosity. I'm currently learning Docker Compose to better tailor my dev environment, and to build Laravel using the VILT stack.
 
